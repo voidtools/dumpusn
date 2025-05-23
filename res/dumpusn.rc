@@ -82,7 +82,7 @@ BEGIN
             VALUE "FileDescription", "Dump USN Journal"
             VALUE "FileVersion", "1.0.0.2"
             VALUE "InternalName", "dumpusn"
-            VALUE "LegalCopyright", "Copyright © 2024 voidtools"
+            VALUE "LegalCopyright", "Copyright © 2025 voidtools"
             VALUE "OriginalFilename", "dumpusn.exe"
             VALUE "ProductName", "dumpusn"
             VALUE "ProductVersion", "1.0.0.2"
